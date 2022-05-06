@@ -97,7 +97,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/aCodeRancher/sfg-pet-clinic-fji.git</developerConnection>
-        <tag>HAED</tag>
+        <tag>sfg-pet-clinic-0.0.1</tag>
     </scm>
 
 </project>

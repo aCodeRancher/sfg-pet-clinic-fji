@@ -1,11 +1,11 @@
-package guru.springframework;
+package guru.springframework.sfgpetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class SfgPetClinicApplicationTests {
 
+@SpringBootTest
+class SfgPetClinicApplicationTest {
     @Test
     void contextLoads() {
     }
