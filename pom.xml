@@ -96,7 +96,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/fjimenez-kmc/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/aCodeRancher/sfg-pet-clinic-fji.git</developerConnection>
         <tag>HAED</tag>
     </scm>
 
